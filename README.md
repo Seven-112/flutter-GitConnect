@@ -3,8 +3,6 @@
 
 Github mobile app built in flutter framwork.
 
-App preview:- [Youtube](https://youtu.be/28Dcqr89N1g)
-
 ## Download App
 <a href="https://play.google.com/store/apps/details?id=com.thealphamerc.flutter_github_connect"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
@@ -239,14 +237,6 @@ Profile (Light Theme)         |  Home (Light Theme)              |   Inbox (Ligh
 If you wish to contribute a change to any of the existing feature or add new in this repo,
 Send a [pull request](https://github.com/TheAlphamerc/flutter-GitConnect/pulls). I welcome and encourage all pull requests. It usually will take me within 24 hours to respond to any issue or request.
 
-## Created & Maintained By
-
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/TheAlphamerc/)
 
 ## Visitors Count
 
